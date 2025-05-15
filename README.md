@@ -59,4 +59,5 @@
 ### Bilgilendirme
 
 - Bu ayarlar TürkTelekom ile test edilmiştir eğer sizin sağlayıcınızda çalışmaz ise birkaç ayarları değiştirmeyi deneyin.
+- İsterseniz ByeDPI kısayolunu Hızlı Ayarlar menüsüne kısayol olarak ekleyebilirsiniz.
 - Bu proje benim tarafımdan geliştirilmemiştir. Sadece yukarıdaki bilgiler eğitim amaçlıdır ve herhangi bir sorumluluk kabul etmiyorum.
