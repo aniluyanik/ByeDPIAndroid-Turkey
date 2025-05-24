@@ -33,6 +33,7 @@
    **Blacklist** Ayarları:
 
    - "Hosts" sekmesini açın ve "Blacklist" seçin "Hosts blacklist" kısmına şu alan adlarını ekleyin:
+   
    Discord için:
    ```
    discord.com
@@ -44,7 +45,11 @@
    discordcdn.com
    discordstatus.com
    discord-attachments-uploads-prd.storage.googleapis.com
-   
+   ```
+   Roblox için:
+   ```
+   roblox.com
+   ```
 ///
 
    - **Desync method**: Out-of-band seçin.
