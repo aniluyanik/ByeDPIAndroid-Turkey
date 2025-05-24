@@ -33,7 +33,7 @@
    **Blacklist** Ayarları:
 
    - "Hosts" sekmesini açın ve "Blacklist" seçin "Hosts blacklist" kısmına şu alan adlarını ekleyin:
-
+   Discord için:
    ```
    discord.com
    discord.gg
@@ -44,7 +44,10 @@
    discordcdn.com
    discordstatus.com
    discord-attachments-uploads-prd.storage.googleapis.com
+   
 ///
+
+   - **Desync method**: Out-of-band seçin.
    - **Desync HTTP:** Açık yapın.
    - **Desync HTTPS:** Açık yapın.
    - **Desync UDP:** Açık yapın. (Ses kanalları çalışmıyor ise açık yapın.)
@@ -52,7 +55,7 @@
    - **Host mixed case:** Açık yapın.
    - Diğer ayarları (örneğin "Default TTL", "Split position" gibi) varsayılan değerlerde bırakabilirsiniz.
 
-7. **Uygulamayı Başlatın:**
+8. **Uygulamayı Başlatın:**
 
    - Ayarları yaptıktan sonra ana ekrana dönün ve "Connect" butonuna dokunarak VPN bağlantısını aktif edin. İnternet bağlantınızı kontrol edin.
 
